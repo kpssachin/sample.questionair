@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// https://www.youtube.com/watch?v=F2JCjVSZlG0
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
